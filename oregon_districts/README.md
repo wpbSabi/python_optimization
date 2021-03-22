@@ -34,7 +34,7 @@ The exploratory data analysis explores the population growth in Oregon to better
 
 Oregon's five most populated counties contain 60% of the state population:
 1. Multnomah County contains the largest city (Portland) and 4th largest city (Gresham) in the east Portland metro.
-2. Washingtont County contains the 5th (Hillsboro) and 6th (Beaverton) largest cities in the west Portland metro.
+2. Washington County contains the 5th (Hillsboro) and 6th (Beaverton) largest cities in the west Portland metro.
 3. Clackamas County holds much of its population in the southeast Portland metro.
 4. Lane County contains Oregon's 3rd largest city (Eugene).
 5. Marion County contains Oregon's 2nd largest city and capital (Salem).
@@ -55,9 +55,13 @@ The first model results:
 * Chooses two districts along the Pacific Ocean coast instead of three.
 * Shifts the distric that is no longer borders the coast to include Deschutes county, a growing county on the east side of the Cascade Mountain Range.
 
-![Model Result](https://github.com/wpbSabi/python_optimization/blob/main/oregon_districts/images/SecondPass.png)
+![Model Result Population Label](https://github.com/wpbSabi/python_optimization/blob/main/oregon_districts/images/SecondPass.png)
+
+![Model Result County Label](https://github.com/wpbSabi/python_optimization/blob/main/oregon_districts/images/SecondPassCountyLabels.png)
 
 Further models will be created soon, utilizing different seeds and another open source solver.
+* Running the model with the GLPK solver rather than the CBC solver did find a one of the other optimial solutions (which chooses the minimum number of assignements), but the result was very similar to the CBC solver.
+* TBD : tightening the population difference constraint among counties
 
 
 ## Want to know more about Congressional Apportionment?
