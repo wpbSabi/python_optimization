@@ -8,7 +8,7 @@ The model chooses N facilities from a set of available facility locations to min
 
 ## Data
 
-The data in the model currently is simple.  Three customer nodes and seven potential distribution center nodes.  Each node also has geographic data which is not shown here for brevity.
+The data in the model currently is simple: Three customer nodes and seven potential distribution center nodes.  Each node also has geographic data which is not shown here for brevity.
 
 ![customers](https://github.com/wpbSabi/python_optimization/blob/main/facility_location/images/Customers.png)
 
@@ -37,6 +37,7 @@ The data in the model currently is simple.  Three customer nodes and seven poten
 ![c2](https://github.com/wpbSabi/python_optimization/blob/main/facility_location/images/constraint2.png)
 
 - **Distribution Centers Capacity**: Each Distribution Center has a limited capacity based on these planning decisions.
+- 
 ![c3](https://github.com/wpbSabi/python_optimization/blob/main/facility_location/images/constraint3.png)
 
 ### Results
