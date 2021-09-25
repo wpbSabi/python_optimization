@@ -37,7 +37,6 @@ The data in the model currently is simple: Three customer nodes and seven potent
 ![c2](https://github.com/wpbSabi/python_optimization/blob/main/facility_location/images/constraint2.png)
 
 - **Distribution Centers Capacity**: Each Distribution Center has a limited capacity based on these planning decisions.
-- 
 ![c3](https://github.com/wpbSabi/python_optimization/blob/main/facility_location/images/constraint3.png)
 
 ### Results
