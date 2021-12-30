@@ -10,4 +10,4 @@ Utilize a jupyter notebook to open the ".ipynb" file. There are more details ins
 
 ## Seasonal Inventory Model with OR-Tools
 
-This (medium article)[https://towardsdatascience.com/a-python-or-tools-model-for-seasonal-inventory-planning-483aaf5aa8b] on the seasonal inventory planning model provides an overview of how to use and build the model with ortools in python.
+This [medium article](https://towardsdatascience.com/a-python-or-tools-model-for-seasonal-inventory-planning-483aaf5aa8b) on the seasonal inventory planning model provides an overview of how to use and build the model with ortools in python.
