@@ -1,6 +1,6 @@
 # Facility Location Model
 
-Sabi Horvat, March 2021
+To Run, launch a jupyter notebook and open `Facility Location Model.ipynb`.
 
 ## Overview
 
