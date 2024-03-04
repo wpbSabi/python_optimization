@@ -26,8 +26,7 @@ To open the python model, utilize Jupyter Notebook to read the ".ipynb" the code
 
 The optimization model's decision variables assign counties to districts and then allocate county populations to those districts.  This ensures that all counties (and population) are assigned to districts mathematically.  This also enables objectives and constraints that will formulate solutions based on population, district contiguity, and preservation of county boundaries. 
 
-![decision_variables_objective](https://github.com/wpbSabi/house_ducks/blob/master/dv_obj.png)
-![constraints](https://github.com/wpbSabi/house_ducks/blob/master/constr.png)
+See the `.ipynb` notebook file for a summary of the mathematical formulation.
 
 
 ## Exploratory Data Analysis
