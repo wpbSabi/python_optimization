@@ -1,7 +1,11 @@
 
 # Oregon Congressional Districting based on the 2020 Census
 
-*-Updates will be made after the 2020 Census is released.  The model is currently based on 2018 estimates*
+## How do I run the code?
+
+Utilize a jupyter notebook to open the ".ipynb" file.  There are more details inside the notebook about the formulation, assumptions, and future model enhancements planned.
+
+## Introduction
 
 Oregon might receive a new Congressional District after the 2020 US Census.  Pew Research Center wrote an [article](https://www.pewresearch.org/fact-tank/2018/05/31/u-s-population-keeps-growing-but-house-of-representatives-is-same-size-as-in-taft-era/) which visualized that Oregon was one of the states closest to adding a district in 2010.  Since then Oregon's population grew by an estimated 9%, outpacing the US population's 6% growth, it is likely that the 2020s will be the decade that Oregon receives the new district.
 
@@ -73,8 +77,3 @@ https://www.census.gov/data/tables/2010/dec/2010-apportionment-data.html
 ## When will the 2020 Census data be available?
 
 As of March 2021, it is projected that the 2020 Census data will be available in September or October of 2021.
-
-
-## How do I run the code?
-
-Utilize a jupyter notebook to open the ".ipynb" file.  There are more details inside the notebook about the formulation, assumptions, and future model enhancements planned.
