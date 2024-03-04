@@ -3,7 +3,7 @@
 
 ## How do I run the code?
 
-Utilize a jupyter notebook to open the ".ipynb" file.  There are more details inside the notebook about the formulation, assumptions, and future model enhancements planned.
+Utilize a jupyter notebook to open the `.ipynb` file.  There are more details inside the notebook about the formulation, assumptions, and future model enhancements planned.
 
 ## Introduction
 
