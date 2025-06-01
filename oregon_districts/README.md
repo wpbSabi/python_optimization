@@ -1,6 +1,8 @@
 
 # Oregon Congressional Districting based on the 2020 Census
 
+Link to accompanying [article on Medium](https://medium.com/data-science/how-to-draw-congressional-districts-in-python-with-linear-programming-b1e33c80bc52)
+
 ## How do I run the code?
 
 Utilize a jupyter notebook to open the `.ipynb` file.  There are more details inside the notebook about the formulation, assumptions, and future model enhancements planned.
